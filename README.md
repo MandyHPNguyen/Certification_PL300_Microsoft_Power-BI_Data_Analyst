@@ -1,1 +1,2 @@
-# MS_Power-BI_Data_Analyst
+# Microsoft Power BI Data Analyst
+## Self-paced Learning Repo
